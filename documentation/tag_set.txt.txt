@@ -1,0 +1,44 @@
+# Speaker Tags
+
+	Name	N
+	Gender	G
+		Male				M
+		Female				F
+		Other				O
+	Status	S
+		Titan				T
+		Demi-god			D
+		God					G
+		Government Official	O (removed)
+		Royalty				R
+		Commoner			C
+		Servant/Slave		S
+		Diviner (oracle/prophet)	DV
+		Chorus				X
+		Other				OT
+	Ethnicity	E
+		Athenian*			A
+		Argolic*			AR
+		Boetian*			BO
+		Doric				DO
+		Phocian				PHOC
+		Spartan(Laconian)	S
+		Mycenaean*			M
+		Euboean* 			E			
+		Ithacan				I
+		Thessalian*			TH
+		Non-Specified Greek	G
+		Persian*			P
+		Egyptian			EG
+		Phrygian*			PH
+		Phoenecian			PHO
+		Trojan*				T
+		Thracian*			THR
+		Non-Specified Barbarian	B
+		Diety				D
+		Animal				AN
+		Mythological Creatures	MY
+		Chorus				X
+		Not Specified			N
+		Idea/Concept			C
+		Other				O
